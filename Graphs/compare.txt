@@ -1,0 +1,126 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1265
+{\fonttbl\f0\fnil\fcharset0 Monaco;\f1\froman\fcharset0 Times-Roman;}
+{\colortbl;\red255\green255\blue255;}
+\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\deftab720
+\pard\pardeftab720
+
+\f0\fs22 \cf0 -=-=-=-=-=-=-=-=Austin to Mulshoe:-=-=-=-=-=-=-=-=-=
+\f1\fs24 \
+\
+
+\f0\fs22 Dijkstra\'92s Algorithm:\
+-Nodes : 71\
+-Road Distance austin to muleshoe = 452\
+-Route to muleshoe = (austin lampasas brownwood abilene roscoe snyder lubbock muleshoe muleshoe)\
+\
+\
+Prim\'92s Algorithm:\
+-Total cost = 3598\
+-Edgecost austin to temple = 62\
+-Route Austin to Muleshoe = (austin lampasas brownwood abilene roscoe big-spring lamesa lubbock muleshoe muleshoe)\
+-Pathcost austin to muleshoe = 501\
+-Total cost of all roads = 8061\
+\pard\pardeftab720
+
+\f1\fs24 \cf0 \
+\
+\
+\pard\pardeftab720
+
+\f0\fs22 \cf0 A* dist\
+-Nodes = 65\
+-Road Distance austin to muleshoe = 452\
+Route to muleshoe = (austin lampasas brownwood abilene roscoe snyder lubbock muleshoe muleshoe)
+\f1\fs24 \
+\
+\
+
+\f0\fs22 A* halfass\
+-Nodes = 65\
+-Road Distance austin to muleshoe = 452\
+-Route to muleshoe = (austin lampasas brownwood abilene roscoe snyder lubbock muleshoe muleshoe)\
+\
+A* zip\
+-Nodes = 65\
+-Road Distance austin to muleshoe = 452\
+Route to muleshoe = (austin lampasas brownwood abilene roscoe snyder lubbock muleshoe muleshoe)\
+\
+A* randombs\
+-Nodes = 65\
+-Road Distance austin to muleshoe = 452\
+-Route to muleshoe = (austin lampasas brownwood abilene roscoe snyder lubbock muleshoe muleshoe)\
+\
+A* randomlies\
+-Nodes = 65\
+-Road Distance austin to muleshoe = 452\
+-Route to muleshoe = (austin lampasas brownwood abilene roscoe snyder lubbock muleshoe muleshoe)\
+\
+\
+\
+\
+\
+-=-=-=-=-=-=-=-=Laredo to Haskell:-=-=-=-=-=-=-=-=\'97=\
+\
+Dijkstra\'92s Algorithm:\
+-Road Distance laredo to haskell = 482\
+-Route to haskell = (laredo eagle-pass del-rio sonora san-angelo abilene haskell haskell)\
+\
+A* dist\
+-Nodes = 14\
+-Road Distance laredo to haskell = 482\
+-Route to haskell = (laredo eagle-pass del-rio sonora san-angelo abilene haskell haskell)\
+\
+A* halfass\
+-Nodes = 27\
+-Road Distance laredo to haskell = 482\
+-Route to haskell = (laredo eagle-pass del-rio sonora san-angelo abilene haskell haskell)\
+\
+A* zip\
+-Nodes = 47\
+-Road Distance laredo to haskell = 482\
+-Route to haskell = (laredo eagle-pass del-rio sonora san-angelo abilene haskell haskell)\
+\
+A* randombs\
+-Nodes = 47\
+-Road Distance laredo to haskell = 482\
+-Route to haskell = (laredo eagle-pass del-rio sonora san-angelo abilene haskell haskell)\
+\
+A* randomlies\
+-Nodes = 25\
+-Road Distance laredo to haskell = 724\
+-Route to haskell = (laredo eagle-pass del-rio sonora junction austin lampasas brownwood abilene haskell haskell)\
+\
+\
+\
+-=-=-=-=-=-=-=-=-=-=Dumas to Corsicana-=-=-=-=-=-=-=-=-\
+\
+Dijkstra\'92s Algorithm:\
+-Nodes = 68\
+-Road Distance dumas to corsicana = 467\
+-Route to corsicana = (dumas amarillo childress vernon wichita-falls fort-worth dallas corsicana corsicana)\
+\
+A* dist\
+-Nodes = 10\
+-Road Distance dumas to corsicana = 467\
+-Route to corsicana = (dumas amarillo childress vernon wichita-falls fort-worth dallas corsicana corsicana)\
+\
+A* halfass\
+-Nodes = 25\
+-Road Distance dumas to corsicana = 467\
+-Route to corsicana = (dumas amarillo childress vernon wichita-falls fort-worth dallas corsicana corsicana)\
+\
+A* zip\
+-Nodes = 34\
+-Road Distance dumas to corsicana = 467\
+-Route to corsicana = (dumas amarillo childress vernon wichita-falls fort-worth dallas corsicana corsicana)\
+\
+A* randombs\
+-Nodes = 34\
+-Road Distance dumas to corsicana = 467\
+-Route to corsicana = (dumas amarillo childress vernon wichita-falls fort-worth dallas corsicana corsicana)\
+\
+A* randomlies\
+-Nodes = 29\
+-Road Distance dumas to corsicana = 467\
+-Route to corsicana = (dumas amarillo childress vernon wichita-falls fort-worth dallas corsicana corsicana)}
